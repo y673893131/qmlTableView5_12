@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TableViewEx.qml</file>
+        <file>SectionDelegate.qml</file>
+        <file>Global_Object.qml</file>
+        <file>qmldir</file>
+        <file>MoveSection.qml</file>
+        <file>HeaderViewEx.qml</file>
+    </qresource>
+</RCC>
